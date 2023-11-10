@@ -1,4 +1,5 @@
-# Chat with llm doc : LLAMA2 + LangChain + Streamlit + Google Colab using GPU (execution steps)
+# Chat with llm doc : LLAMA2 + LangChain + Streamlit + Google Colab using GPU (notebook execution steps - llm_langchain_streamlit_script (execution).ipynb)
+
 
 import os
 
